@@ -1,7 +1,6 @@
 //DATE: 7/5/2026
 //NEXT = CURRENT * 2 - [NUMBER 2 POSITIONS BEFORE]
 // 1, 2, 3, 5, 8, 13, 21, 34, ...
-//Glory be to the Creator, the One who sustains us, the one who lives forever.
 
 
 #include <stdio.h>
