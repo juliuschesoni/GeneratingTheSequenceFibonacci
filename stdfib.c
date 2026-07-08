@@ -10,9 +10,9 @@ int main() {
     long long fib[20];
 
     // Initialize the first three terms
-    fib[0] = 1;
+    fib[0] = 0;
     fib[1] = 1;
-    fib[2] = 2;
+    fib[2] = 1;
 
     printf("Fibonacci sequence generated using F(n+1) = 2*F(n) - F(n-2):\n");
     printf("%lld, %lld, %lld", fib[0], fib[1], fib[2]);
