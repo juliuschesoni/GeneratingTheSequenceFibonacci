@@ -11,9 +11,9 @@ int main() {
     long long fib[n];
 
     // Initial values
-    fib[0] = 1;
-    fib[1] = 2;
-    fib[2] = 3;
+    fib[0] = 0;
+    fib[1] = 1;
+    fib[2] = 1;
 
     printf("Fibonacci Sequence:\n");
     printf("%lld %lld %lld ", fib[0], fib[1], fib[2]);
